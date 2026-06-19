@@ -1,0 +1,13 @@
+=== Resultado do Jogo ===
+
+Tiros dados: 12
+Tiros acertados: 0
+Eficacia: 0.0%
+
+=== Posicoes das Naves ===
+Pos 14: Falcon (F) - Energia final: 100
+Pos 2: Eagle (E) - Energia final: 90
+Pos 5: Hawk (H) - Energia final: 100
+
+=== Posicoes dos Tiros ===
+1, 2, 4, 1, 2, 3, 4, 5, 6, 1, 2, 3
