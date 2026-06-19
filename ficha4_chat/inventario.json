@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "titulo": "asd",
+        "autor": "asdfg",
+        "quantidade": 5,
+        "preco": 45.0
+    },
+    {
+        "id": 2,
+        "titulo": "sadf",
+        "autor": "sd",
+        "quantidade": 45,
+        "preco": 6.0
+    }
+]
